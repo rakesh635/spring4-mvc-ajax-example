@@ -1,0 +1,6 @@
+parameter:
+  appname: spring4mvcajax
+  deployment:
+    strategy: rollingupdate
+    # rollingupdate , bluegreen , canary
+    # default is rollingupdate
